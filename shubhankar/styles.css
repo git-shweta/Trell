@@ -1,0 +1,34 @@
+body{
+    background-image: url('4.PNG');
+}
+
+.follow{
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 2.85%;
+  display: block;
+  text-align: center;
+  width: 6%;
+  font-family: sans-serif;
+  font-weight: bold;
+  background: linear-gradient(120deg,rgb(189, 11, 121),rgb(240, 15, 34));
+  padding: 9px;
+  border-radius: 27px;
+  color: white;
+  
+}
+
+.unfollow{
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 2.85%;
+  display: block;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  background: linear-gradient(120deg,rgb(189, 11, 121),rgb(240, 15, 34));
+  padding: 9px;
+  border-radius: 27px;
+  color: white;
+  width: 8%;
+}
